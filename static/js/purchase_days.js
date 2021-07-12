@@ -2,7 +2,7 @@ var chart = c3.generate({
     bindto: '#day_chart',
     data: {
         x : 'x',
-        url: 'http://tannerembry.com/json/purchases_days.json',
+        url: 'https://tannerembry.onrender.com/json/purchases_days.json',
         mimeType: 'json',
         colors: {
             'Arathi Basin': '#9e69a9',

@@ -1,7 +1,7 @@
 var chart = c3.generate({
     bindto: '#hour_chart',
     data: {
-        url: 'http://tannerembry.com/json/purchases_clock.json',
+        url: 'https://tannerembry.onrender.com/json/purchases_clock.json',
         mimeType: 'json',
         colors: {
             Morning: '#a1c0ff',

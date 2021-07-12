@@ -7,7 +7,7 @@ var chart = c3.generate({
             'machines': 'machines_x',
         },
         xFormat: '%m-%d-%Y', // 'xFormat' can be used as custom format of 'x'
-        url: 'http://tannerembry.com/json/purchases_all.json',
+        url: 'https://tannerembry.onrender.com/json/purchases_all.json',
         mimeType: 'json',
         colors: {
             'arathi': '#a800cb',

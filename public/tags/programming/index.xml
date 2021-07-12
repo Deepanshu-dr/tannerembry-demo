@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>programming on tannerembry.com</title>
-    <link>http://tannerembry.com/tags/programming/</link>
+    <link>https://tannerembry.onrender.com/tags/programming/</link>
     <description>Recent content in programming on tannerembry.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 Tanner Embry</copyright>
-    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://tannerembry.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://tannerembry.onrender.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Email Scraping And Data Visualization</title>
-      <link>http://tannerembry.com/posts/data-mine-email/</link>
+      <link>https://tannerembry.onrender.com/posts/data-mine-email/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://tannerembry.com/posts/data-mine-email/</guid>
+      <guid>https://tannerembry.onrender.com/posts/data-mine-email/</guid>
       <description>&lt;!-- &lt;link href=&#34;../../css/c3.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt; --&gt;
 &lt;!-- &lt;link href=&#34;../../css/normalize-e465cb86.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt; --&gt;
 &lt;!-- &lt;link href=&#34;../../css/foundation.min-978d4ce8.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt; --&gt;

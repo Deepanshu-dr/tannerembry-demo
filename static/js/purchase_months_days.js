@@ -3,7 +3,7 @@ var chart = c3.generate({
     data: {
         x: 'x',
         xFormat: '%m-%Y', // 'xFormat' can be used as custom format of 'x'
-        url: 'http://tannerembry.com/json/purchases_day_by_month.json',
+        url: 'https://tannerembry.onrender.com/json/purchases_day_by_month.json',
         mimeType: 'json',
         //colors: {
         //    'Arathi Basin': '#9e69a9',

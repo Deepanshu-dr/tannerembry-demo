@@ -1,7 +1,7 @@
 var chart = c3.generate({
     bindto: '#email_chart',
     data: {
-        url: 'http://tannerembry.com/json/purchases_emails.json',
+        url: 'https://tannerembry.onrender.com/json/purchases_emails.json',
         mimeType: 'json',
         type : 'donut',
         onclick: function (d, i) { console.log("onclick", d, i); },

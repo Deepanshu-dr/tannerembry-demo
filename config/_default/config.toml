@@ -1,4 +1,4 @@
-baseURL = "http://tannerembry.com" # use a slash for local dev
+baseURL = "https://tannerembry.onrender.com" # use a slash for local dev
 # baseURL = "tannerembry.com"
 title = "tannerembry.com"
 relativeURLs = true
