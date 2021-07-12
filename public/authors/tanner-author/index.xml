@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanner Embry on tannerembry.com</title>
+    <link>http://tannerembry.com/authors/tanner-author/</link>
+    <description>Recent content in Tanner Embry on tannerembry.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Tanner Embry</copyright>
+    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://tannerembry.com/authors/tanner-author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Murals</title>
+      <link>http://tannerembry.com/posts/murals/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://tannerembry.com/posts/murals/</guid>
+      <description>&lt;p&gt;I enjoy painting things on walls.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Email Scraping And Data Visualization</title>
+      <link>http://tannerembry.com/posts/data-mine-email/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tannerembry.com/posts/data-mine-email/</guid>
+      <description>&lt;!-- &lt;link href=&#34;../../css/c3.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt; --&gt;
+&lt;!-- &lt;link href=&#34;../../css/normalize-e465cb86.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt; --&gt;
+&lt;!-- &lt;link href=&#34;../../css/foundation.min-978d4ce8.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt; --&gt;
+&lt;!-- &lt;link href=&#34;../../css/tomorrow-d7cf0921.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt; --&gt;
+&lt;link href=&#34;../../css/c3-b03125fa.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;
+&lt;!-- &lt;link href=&#34;../../css/style-99fb8989.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt; --&gt;
+&lt;!-- &lt;link href=&#34;../../css/samples/chart_area_stacked-da39a3ee.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt; --&gt;
+&lt;p&gt;Data mining my email with Java and then using D3.js to visualize it.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

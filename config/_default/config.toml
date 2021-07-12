@@ -1,0 +1,43 @@
+baseURL = "http://tannerembry.com" # use a slash for local dev
+# baseURL = "tannerembry.com"
+title = "tannerembry.com"
+relativeURLs = true
+
+# Comment when installing using Hugo Modules
+# theme = "md5_eureka"
+# Uncomment when installing using Hugo Modules
+theme = "md5_eureka"
+
+paginate = 3
+copyright = "&copy; 2021 Tanner Embry"
+enableEmoji = true
+enableGitInfo = false
+summaryLength = 75
+
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguageInSubdir = false
+
+# Uncomment for google analytics
+# googleAnalytics = "UA-123-45"
+custom_js = ["js/d3.min.js"]
+[markup]
+  # Do not modify markup.highlight
+  [markup.highlight]
+    codeFences = false
+    noClasses = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+    ordered = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  author = "authors"
+
+[build]
+  useResourceCacheWhen = "always"

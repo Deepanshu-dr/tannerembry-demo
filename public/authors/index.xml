@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on tannerembry.com</title>
+    <link>http://tannerembry.com/authors/</link>
+    <description>Recent content in Authors on tannerembry.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Tanner Embry</copyright>
+    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://tannerembry.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tanner Embry</title>
+      <link>http://tannerembry.com/authors/tanner-author/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://tannerembry.com/authors/tanner-author/</guid>
+      <description>About Me Hi, I’m Tanner and this is my little spot on the internet. I intend to use it to outline some of the projects I have done along with some bits of knowledge I feel is worthy of sharing.
+If you are interested in contacting me please do so by email, otherwise feel free to browse some of my posts below.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Authors</title>
+      <link>http://tannerembry.com/authors/hugo-authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tannerembry.com/authors/hugo-authors/</guid>
+      <description>Vestibulum vel arcu Donec interdum justo sed posuere imperdiet. Quisque nec mauris eu erat mattis egestas in vitae nisl. Sed nisl augue, congue sed quam quis, tempor tempus nibh. Pellentesque accumsan in quam a interdum. Morbi iaculis venenatis lacinia. Mauris quis nisl vitae nisi mollis placerat id vel ligula. Integer vitae arcu ac leo iaculis rhoncus id vitae dolor. Fusce quis nisl tincidunt, vulputate dolor quis, mollis massa. Donec congue velit at risus cursus, eu auctor dolor rhoncus.</description>
+    </item>
+    
+  </channel>
+</rss>
